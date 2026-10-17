@@ -1,0 +1,39 @@
+{
+  "name": "Rostampour Sizing V9 — Station Water",
+  "short_name": "Station V9",
+  "description": "محاسبه‌گر سایزینگ پمپ، خط لوله، شبکه توزیع، شبکه حلقوی و ضخامت دیواره — ایستگاه توزیع آب پارس",
+  "start_url": "./index.html?v9",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#061E33",
+  "theme_color": "#0B3D63",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./index.html?v9",
+  "prefer_related_applications": false,
+  "categories": [
+    "utilities",
+    "productivity"
+  ]
+}
