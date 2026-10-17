@@ -3,7 +3,7 @@
   "short_name": "Rostampour 9.2",
   "description": "محاسبه‌گر سایزینگ پمپ، خط لوله، شبکه توزیع، شبکه حلقوی و ضخامت دیواره — ایستگاه توزیع آب پارس",
   "start_url": "./index.html?v92",
-  "scope": "./",
+  "scope": "/Rostampour-sizing-9.2/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#061E33",
@@ -30,7 +30,7 @@
       "purpose": "maskable"
     }
   ],
-  "id": "./index.html?v92",
+  "id": "/Rostampour-sizing-9.2/app-v92",
   "prefer_related_applications": false,
   "categories": [
     "utilities",
